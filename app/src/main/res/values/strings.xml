@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+    <string-array name="burger_toppings_array">
+        <item>Buns</item>
+        <item>Patty</item>
+        <item>Tomato</item>
+        <item>Lettuce</item>
+        <item>Ketchup</item>
+        <item>Chilli Sauce</item>
+        <item>Pickle</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
